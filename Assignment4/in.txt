@@ -1,0 +1,3 @@
+myClause(1,or(a1,a2)).
+myClause(2,neg(a1)).
+myClause(3,neg(a2)).
